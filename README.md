@@ -2,8 +2,6 @@
 
 This is a simple client-server chat application built using *Java Socket Programming* and a *Swing-based GUI*. It allows multiple clients to connect to a server and exchange real-time messages over a local network.
 
-This project was inspired by a YouTube tutorial series on building Java chat apps with Swing and sockets.
-
 ---
 
 ## 📌 Features
