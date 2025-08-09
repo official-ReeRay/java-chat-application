@@ -62,7 +62,7 @@ public class Client implements ActionListener {
         JLabel phone = new JLabel(i12);
         phone.setBounds(360, 20, 35, 30);
         p1.add(phone);
-
+      //nbjkhhjkh h jkhjkh j h hjkh jhj hjj hjh gh ghj 
         ImageIcon i13 = new ImageIcon(ClassLoader.getSystemResource("icons/3icon.png"));
         Image i14 = i13.getImage().getScaledInstance(10, 25, Image.SCALE_DEFAULT);
         ImageIcon i15 = new ImageIcon(i14);
