@@ -55,7 +55,7 @@ public class Client implements ActionListener {
         JLabel video = new JLabel(i9);
         video.setBounds(300, 20, 30, 30);
         p1.add(video);
-
+       //htjhgghmghmhjhyj
         ImageIcon i10 = new ImageIcon(ClassLoader.getSystemResource("icons/phone.png"));
         Image i11 = i10.getImage().getScaledInstance(35, 30, Image.SCALE_DEFAULT);
         ImageIcon i12 = new ImageIcon(i11);
