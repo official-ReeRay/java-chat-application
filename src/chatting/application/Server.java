@@ -123,7 +123,7 @@ public class Server implements ActionListener {
         f.getContentPane().setBackground(Color.WHITE);
         f.setVisible(true);
     }
-
+// abstraction
     @Override
     public void actionPerformed(ActionEvent ae) {
         try {
