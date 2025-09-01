@@ -75,7 +75,8 @@ public class Client implements ActionListener {
         name.setForeground(Color.WHITE);
         name.setFont(new Font("SAN_SERIF", Font.BOLD, 18));
         p1.add(name);
-
+//lkmcddlkmdslkmdvdklsvd
+        d
         JLabel status = new JLabel("Active Now");
         status.setBounds(110, 35, 100, 18);
         status.setForeground(Color.WHITE);
